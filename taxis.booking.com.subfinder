@@ -1,0 +1,11 @@
+dev.taxis.booking.com
+qa.taxis.booking.com
+*.dev.taxi.booking.com
+*.dev.taxis.booking.com
+*.qa.taxi.booking.com
+*.qa.taxis.booking.com
+*.taxi.booking.com
+*.taxis.booking.com
+dev.taxis.booking.com
+qa.taxis.booking.com
+taxis.booking.com
